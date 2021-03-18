@@ -6,7 +6,6 @@
 * Emotion
 * GraphQL with Apollo Client
 * Context API
-* Firebase
 
 **Application
 ---
