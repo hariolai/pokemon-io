@@ -1,26 +1,27 @@
-***Pokemon-io Web Based game
+Pokemon-io Web Based Game
+=========================
 
-**Stacks used
+Stacks used
 ---
 * ReactJS
 * Emotion
 * GraphQL with Apollo Client
 * Context API
 
-**Application
+Application
 ---
 https://pokemon-io.web.app/
 
 
 
-**Tested on
+Tested on
 ---
 * Android
 * iOS
 * Windows
 
 
-**Credit
+Credit
 ---
 * All Sounds by Niantic, Inc
 * All Background Images by WallpaperAccess
