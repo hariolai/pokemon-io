@@ -1,7 +1,7 @@
 Pokemon-io Web Based Game
 =========================
 
-Stacks used
+Stacks
 ---
 * ReactJS
 * Emotion
